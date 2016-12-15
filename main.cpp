@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  smart unique_ptr example
+//  smart shared_ptr example
 //
 //  Created by Alex Wang on 2016-12-14.
 //  Copyright © 2016 Alex Wang. All rights reserved.
